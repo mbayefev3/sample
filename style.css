@@ -1,0 +1,13 @@
+body{
+
+    background-color:lightblue;
+}
+
+.done {
+
+text-decoration: line-through;
+color:red;
+}
+
+
+
